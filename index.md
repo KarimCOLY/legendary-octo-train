@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+DECLARATION des droits de l'homme et du citoyen du 26 août 1789
 ## Header 2
 ### Header 3
 
